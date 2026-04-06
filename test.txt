@@ -1,6 +1,0 @@
-I am learning here.
-a+b
-a-b
-hii
-hello
-good
